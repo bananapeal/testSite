@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{position: absolute; top: 5px;	
+
+	}
+
+#one p {text-decoration: line-through;}
+
+#one {
+	position: absolute;  left: 300px; top: 200px;
+	width: 205px; height: 250px;
+	
+	z-index: 1; 
+	}
+
+.box {color: #039;
+	
+	border: #039 solid 2px;}
+
+.title {color: #FFF;
+		background-color: #039;
+		width: 205px; height: 20px;
+		position: absolute; left:0px; top: 0px;  
+	
+		}
+
+
+	
+	
+#two {width: 250px; height: 250px; 
+	position: absolute; left: 600px; top: 200px;
+	z-index: 1;
+	color: #0F0;
+	
+	}
+
+#controls {width: 250; height: 500;
+			position: absolute; left: 50px; top: 300px;
+			z-index: 1;
+			}
+
+.button{ width: 200px; height: 100px;}
+
+
+.tooltip {  background-color:#fff155; }
+			*/
